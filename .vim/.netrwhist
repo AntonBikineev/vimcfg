@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/bikineev/workspace/nanox/trunk/sources/download/microwindows-0.91/src/include'
+let g:netrw_dirhist_2='/home/bikineev/workspace/posman/trunk/sources/include/posman'
+let g:netrw_dirhist_3='/home/bikineev/workspace/boost-dev/trunk/boost/functional'
+let g:netrw_dirhist_4='/home/bikineev/workspace/tfcgui-qt/releases/maxim/examples/bin'
+let g:netrw_dirhist_5='/etc/apt/apt.conf.d'
+let g:netrw_dirhist_6='/etc/ld.so.conf.d'
+let g:netrw_dirhist_7='/home/bikineev/workspace/posman/qt-test-new/trunk/sources/xml/maxim'
+let g:netrw_dirhist_8='/home/bikineev/workspace/qt/trunk/sources/qt-everywhere-opensource-src-4.7.4/config.tests'
+let g:netrw_dirhist_9='/home/bikineev/workspace/tfcgui-qt/.svn/props'
